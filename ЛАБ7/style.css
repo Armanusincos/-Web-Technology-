@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    color: rgb(0, 51, 102);
+    margin: 20px;
+    line-height: 1.5;
+    background-color: white;
+}
+
+h1, h2, h3 {
+    color: rgb(0, 51, 102);
+}
+
+a:link {
+    color: deepskyblue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: white;
+    background-color: gray;
+}
+
+table,
+ul,
+ol,
+li {
+    font-size: 90%;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 15px 0;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid rgb(0, 51, 102);
+    padding: 8px;
+    text-align: left;
+}
+
+hr {
+    margin: 30px 0;
+}
